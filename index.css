@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    border: 1px solid #FFFFFF;
+    width: 1440px;
+    height: 72px;
+}
+
+.lakatsiyaimg {
+    width: 11.67px;
+    height: 16.67px;
+    margin-top:  1.67px ;
+    margin-left: 4.17px;
+}
+
+.navbar2 {
+    border: 1px solid #FFFFFF;
+    width: 1440px;
+    height: 72px;
+}
+
+.logo {
+    width: 207px;
+    height: 41px;
+    margin-top: 18px;
+    margin-left: 154px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    width: 484 px;
+    height: 19px;
+    margin-top: -29px;
+    margin-left: 478px;
+    gap: 46px;
+    color: #333333;
+}
+
+button {
+    width: 179px;
+    height: 40px;
+    margin-top: 18px;
+    margin-left: 1096px;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 19.36px;
+    color: #FFFFFF;
+    background-color: #4762FF;
+    border-radius: 5px;
+}
+
+.chiziq {
+    width: 1110px;
+    margin-top: 71.25px;
+    margin-left: 165px;
+    border: 1px solid #3333331A;
+}
+
+.carimg {
+    width: 1176px;
+    height: 529px;
+    margin-left: 644px;
+}
+
+.gap1 {
+    font-family: inter;
+    width: 700px;
+    font-size: 60px;
+    line-height: 76px;
+    margin-top: 26px;
+    margin-left: 165px;
+    color: #333333;
+    gap: 16px;
+}
+
+.gap2 {
+    font: inter;
+    weigth: 400 ;
+    font-size: 18px;
+    line-height: 21.78px;
+    color: #333333CC;
+}
+
